@@ -32,17 +32,10 @@ struct percorso{
 //---------------------------------------------------- TRACCIA PROGETTO ----------------------------------------------------
 /**
  * Progetto n. 1 di ASD a.a 2019/2020:
- * 	- Gruppo: 
- * 		- (P)reasoners of the Void
  * 
  * 	- Esecuzione:
  * 		- /usr/bin/g++ -DEVAL -std=gnu++11 -O2 -pipe -static -s -o cicli cicli.cpp
  * 		- ./cicli
- * 
- * 	- Matricole:
- * 		- 201645: Leonardo Xompero
- * 		- 201973: Aymane Chabbaki
- * 		- 202691: Massimo Rizzoli
  * 
  * Traccia:
  * 		- La traccia del problema (con vincoli, assunzioni e note) è reperibile da: https://judge.science.unitn.it/arena/tasks/cicli/description
