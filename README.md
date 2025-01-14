@@ -7,4 +7,4 @@ Il sindaco vi fornirà:
 Per ciascuna richiesta dovrete comunicare la minima distanza che il cittadino dovrà percorrere, in termini di numero di piste ciclabili attraversate.
 
 ---
-Per maggiori informazioni sui requisiti del progetto (input-data, output-data, vincoli imprementativi, assunzioni) vedere *CICLI-CICLABILI.pdf*.
+Per maggiori informazioni sui requisiti del progetto (input-data, output-data, vincoli imprementativi, assunzioni) vedere [*CICLI-CICLABILI.pdf*](https://github.com/ChabbakiAymane/CICLI-CICLABILI/blob/main/CICLI-CICLABILI.pdf).
